@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 	</span>
 <!-- description  -->
             <p align="center">
-		    <br>A webapp for users to maintain a collection of customized maps with saved location points and details for each map.</p>
+		    <br>Group Project: A webapp for users to maintain a collection of customized maps with saved location points and details for each map.</p>
 <!--   Repo mark   -->
 		<br> <p align="center">
 		  <span> <a href="https://github.com/cch4n1/wikimap" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 	</span>
 <!-- description  -->
             <p align="center">
-		   <br> A travel planning app that generates a custom itinerary for you based on the number of days, location and interests using Yelp API's top rated spots for recommendations. </p>
+		   <br> Group Project: A travel planning app that generates a custom itinerary for you based on the number of days, location and interests using Yelp API's top rated spots for recommendations. </p>
 	          <!--   Repo mark   -->
             	  <br> <p align="center"> <span> <a href="https://github.com/heXagon-bcd/lhlfinal_flyboy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
