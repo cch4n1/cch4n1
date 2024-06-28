@@ -22,8 +22,52 @@ Here are some ideas to get you started:
 <div align="center">
 	
   <table>
-      <tr>
+	   <tr>
         <!-- Project 1 -->
+        <td class="1" width="50%">
+          <h3 align="center">TinyApp</h3>
+		<br>
+          <p align="center">
+            <a href="https://github.com/cch4n1/tinyapp" target="_blank" rel="noreferrer"> <img src="https://github.com/cch4n1/tinyapp/raw/master/docs/urls-page.png?raw=true" alt="TinyApp"/></a>
+<!-- stack -->
+	<span> 
+	<image src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <image src="https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"> <image src="https://camo.githubusercontent.com/1bf0d1f3d3c56a35fb820e063b0fc6fed019ca6999c4c5abe17cfdbe3ce190c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642"> 
+	</span>
+<!-- description  -->
+            <p align="center">
+		    <br>Bit ly clone that allows users to shorten urls</p>
+<!--   Repo mark   -->
+		<br> <p align="center">
+		  <span> <a href="https://github.com/cch4n1/tinyapp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href=https://tinyapp-io0k.onrender.com target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px" ></a></span>
+		</p>
+          </p>
+        </td>
+      <!-- Project 2 -->
+       <td class="2" width="50%">
+          <h3 align="center">Tweeter</h3>
+	       <br>
+          <p align="center">
+            <a href="https://github.com/cch4n1/tweeter" target="_blank" rel="noreferrer"> <img src="https://github.com/cch4n1/tweeter/raw/master/docs/tweeter-desktop.png?raw=true" alt="Tweeter"/></a>
+	<!-- stack -->
+	<span> 
+	<image src="https://camo.githubusercontent.com/3babc94d778f96441b3a66615fb5ee88c6ed04f174ed49b04df92b071a7d0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"> <image src="https://camo.githubusercontent.com/0d58facab1be74748c39244ff3d990ae8ddd765af40263ed006219154ba90649/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"> <image src="https://camo.githubusercontent.com/1bf0d1f3d3c56a35fb820e063b0fc6fed019ca6999c4c5abe17cfdbe3ce190c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642"> 
+	</span>
+<!-- description  -->
+            <p align="center">
+		   <br> Twitter clone that posts messages to the home page.</p>
+	          <!--   Repo mark   -->
+            	  <br> <p align="center"> <span> <a href="https://github.com/cch4n1/tweeter" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://tweeter-gwz8.onrender.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
+	 	 </p>
+          </p>
+	<br>
+        </td>
+      </tr>
+      <tr>
+        <!-- Project 3 -->
         <td class="1" width="50%">
           <h3 align="center">WikiMaps</h3>
 		<br>
@@ -44,7 +88,7 @@ Here are some ideas to get you started:
 		</p>
           </p>
         </td>
-      <!-- Project 2 -->
+      <!-- Project 4 -->
        <td class="2" width="50%">
           <h3 align="center">FlyBoy</h3>
 	       <br>
@@ -67,7 +111,7 @@ Here are some ideas to get you started:
         </td>
       </tr>
  	<tr>
-        <!-- Project 3 -->
+        <!-- Project 5 -->
         <td class="1" width="50%">
         <h3 align="center">Photolabs</h3>
          <br>
@@ -90,7 +134,7 @@ Here are some ideas to get you started:
 			</p>
           </p>
         </td>
-      <!-- Project 2 -->
+      <!-- Project 6 -->
        <td class="2" width="50%">
           <br>
         </td>
